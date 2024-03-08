@@ -2,7 +2,7 @@
 
 A snnipet to Spotify using spicetify.
 
-![image](https://github.com/insiwd/dancing-kirby/assets/109873022/a6371b59-f0ef-47d5-82d4-dde907a33650)
+![custom (2)](https://github.com/insiwd/dancing-kirby/assets/109873022/4297cb1d-f28a-4cce-86af-0a784b77b3ff)
 
 Paste this on your user.css
 
